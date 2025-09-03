@@ -1,3 +1,3 @@
-An IoT smart solar panel system with automatic adjustment can optimize energy generation by continuously aligning itself with the sun's position. This system integrates sensors to monitor sunlight intensity and a servo motor to physically adjust the panel's angle. The setup uses a Wi-Fi module to transmit real-time sensor data to a cloud-based platform like ThingSpeak for monitoring and analysis. Here’s how this system can be developed using C programming, ThingSpeak, and the necessary hardware.
+<img width="1110" height="575" alt="image" src="https://github.com/user-attachments/assets/44f187a9-cf47-4cf7-bbb8-c485d1923b20" />An IoT smart solar panel system with automatic adjustment can optimize energy generation by continuously aligning itself with the sun's position. This system integrates sensors to monitor sunlight intensity and a servo motor to physically adjust the panel's angle. The setup uses a Wi-Fi module to transmit real-time sensor data to a cloud-based platform like ThingSpeak for monitoring and analysis. Here’s how this system can be developed using C programming, ThingSpeak, and the necessary hardware.
 
-![Uploading image.png…]()
+
